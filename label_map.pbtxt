@@ -1,0 +1,32 @@
+item {
+  name: "Company_Details"
+  id: 1
+}
+item {
+  name: "Customer_Details"
+  id: 2
+}
+item {
+  name: "Date"
+  id: 3
+}
+item {
+  name: "Logo"
+  id: 4
+}
+item {
+  name: "Sales_Tax"
+  id: 5
+}
+item {
+  name: "Subtotal"
+  id: 6
+}
+item {
+  name: "Table"
+  id: 7
+}
+item {
+  name: "Total"
+  id: 8
+}
